@@ -1,0 +1,4 @@
+<script src="client.min.js"></script>
+<script src="jquery.min.js"></script>
+<script src="feather.min.js"></script>
+<script src="location.js"></script>
