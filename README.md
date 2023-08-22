@@ -8,7 +8,3 @@ My Instagram : @t4h4ab
 
 Only Work in Linux / Mac
 
-Made By Taha Security
----
-
-My Instagram : @t4h4ab
